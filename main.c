@@ -14,3 +14,12 @@ int main(){
 
 	return 0;
 }
+
+void f4(){
+    int a = 2;
+    int b = 4;
+    int c;
+
+    c = b/a;
+    printf("Divide number = %d\n",c);
+}
